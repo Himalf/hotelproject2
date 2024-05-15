@@ -22,20 +22,23 @@ const RoomBook = () => {
           </p>
           <p className="text-gray-700 mb-2">
             Email:{" "}
-            <a href="mailto:hotelbabari@gmail.com" className="text-blue-500">
-              hotelbabari@gmail.com
+            <a
+              href="mailto:mail.hotelbabari@gmail.com"
+              className="text-blue-500"
+            >
+              mail.hotelbabari@gmail.com
             </a>
           </p>
           <p className="text-gray-700 mb-2">
             Phone:{" "}
-            <a href="tel:071422080" className="text-blue-500">
+            <a href="tel:9857024734" className="text-blue-500">
               071422080 ,9857024734
             </a>
           </p>
         </div>
         <div className="mb-6">
           <a
-            href="mailto:hotelbabari@gmail.com"
+            href="mailto:mail.hotelbabari@gmail.com"
             className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
           >
             Mail Now

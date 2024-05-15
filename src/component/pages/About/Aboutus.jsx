@@ -22,8 +22,11 @@ const AboutUs = () => {
           <ul className="list-disc pl-6 mb-4">
             <li>
               <span className="font-semibold">Email:</span>{" "}
-              <a href="mailto:hotelbabari@gmail.com" className="text-blue-500">
-                hotelbabari@gmail.com
+              <a
+                href="mailto:mail.hotelbabari@gmail.com"
+                className="text-blue-500"
+              >
+                mail.hotelbabari@gmail.com
               </a>
             </li>
             <li>

@@ -4,7 +4,14 @@ import hotelday from "../../../assets/Image/hotelday.jpg";
 import food1 from "../../../assets/Image/food1.jpg";
 import kitchen from "../../../assets/Image/kitchen.jpg";
 import hotelnight from "../../../assets/Image/hotelnight.jpg";
-import hotel1 from "../../../assets/Image/hotel1.jpg";
+import p1 from "../../../assets/Image/1.jpg";
+import p2 from "../../../assets/Image/2.jpg";
+import p3 from "../../../assets/Image/3.jpg";
+import p4 from "../../../assets/Image/4.jpg";
+import p5 from "../../../assets/Image/5.jpg";
+import p6 from "../../../assets/Image/6.jpg";
+import p7 from "../../../assets/Image/7.jpg";
+import p8 from "../../../assets/Image/8.jpg";
 
 const Galleries = () => {
   return (
@@ -23,7 +30,7 @@ const Galleries = () => {
         <div className="relative aspect-w-4 aspect-h-3">
           <img
             src={hotelnight}
-            alt="Hotel Day"
+            alt="Hotel Night"
             className="object-cover w-full h-full rounded-lg"
           />
         </div>
@@ -43,15 +50,64 @@ const Galleries = () => {
         </div>
         <div className="relative aspect-w-4 aspect-h-3">
           <img
-            src={hotelnight}
-            alt="Hotel Night"
+            src={hotelday}
+            alt="Hotel Day"
             className="object-cover w-full h-full rounded-lg"
           />
         </div>
         <div className="relative aspect-w-4 aspect-h-3">
           <img
-            src={hotel1}
-            alt="Hotel"
+            src={p1}
+            alt="Image 1"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p2}
+            alt="Image 2"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p3}
+            alt="Image 3"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p4}
+            alt="Image 4"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p5}
+            alt="Image 5"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p6}
+            alt="Image 6"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p7}
+            alt="Image 7"
+            className="object-cover w-full h-full rounded-lg"
+          />
+        </div>
+        <div className="relative aspect-w-4 aspect-h-3">
+          <img
+            src={p8}
+            alt="Image 8"
             className="object-cover w-full h-full rounded-lg"
           />
         </div>

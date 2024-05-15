@@ -10,8 +10,11 @@ const Footer = () => {
           <p className="mb-2">Phone: 071422080 9857024734</p>
           <p className="mb-2">
             Email:{" "}
-            <a href="mailto:hotelbabari@gmail.com" className="text-blue-500">
-              hotelbabari@gmail.com
+            <a
+              href="mailto:mail.hotelbabari@gmail.com"
+              className="text-blue-500"
+            >
+              mail.hotelbabari@gmail.com
             </a>
           </p>
           <p>VAT No.: 606002343</p>
@@ -34,7 +37,10 @@ const Footer = () => {
         <div>
           <h2 className="text-2xl font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
-            <a href="#" className="text-white hover:text-blue-500">
+            <a
+              href="https://www.facebook.com/profile.php?id=100071334680058"
+              className="text-white hover:text-blue-500"
+            >
               <FaFacebook />
             </a>
             <a href="#" className="text-white hover:text-blue-500">
