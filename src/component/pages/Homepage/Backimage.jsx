@@ -17,7 +17,7 @@ const Backimage = () => {
           }}
         >
           <div className="text-blue-900 font-bold   text-right">
-            +977-98570224734, +977-9857039576
+            071422080 , 9857024734
           </div>
 
           <div className="absolute top-0 left-0 w-full h-full bg-gray-800 opacity-50"></div>
@@ -30,9 +30,9 @@ const Backimage = () => {
                 Experience luxury and comfort like never before.
               </p>
               <p className="text-lg md:text-xl lg:text-md">
-                Sainamaina-2 , Rupandehi
+                Sainamaina-02, sorauli
               </p>
-              <p className="text-lg md:text-xl lg:text-md">Nepal</p>
+              <p className="text-lg md:text-xl lg:text-md">Rupandehi,Nepal</p>
 
               <button
                 className="mt-8 text-white py-2 px-4 rounded-full bg-mainColor hover:bg-white hover:text-black transition duration-300"

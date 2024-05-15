@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { GiHamburgerMenu } from "react-icons/gi";
-import hotelday from "../../assets/Image/hotelday.jpg";
+import logo from "../../assets/Image/logo.jpg";
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
 
@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-white">
           <div className="w-fit h-fit rounded-full ml-10">
-            <img src={hotelday} alt="logo" className="w-14 h-14 rounded-full" />
+            <img src={logo} alt="logo" className="w-14 h-14 rounded-full" />
           </div>
         </Link>
 

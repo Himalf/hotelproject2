@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
           <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
-          <p className="mb-2">Phone: +977-98570224734, +977-9857039576</p>
+          <p className="mb-2">Phone: 071422080 9857024734</p>
           <p className="mb-2">
             Email:{" "}
             <a href="mailto:hotelbabari@gmail.com" className="text-blue-500">
@@ -18,7 +18,8 @@ const Footer = () => {
         </div>
         <div>
           <h2 className="text-2xl font-semibold mb-4">Location</h2>
-          <p>Sainamaina-2, Rupandehi, Nepal</p>
+          <p>Sainamaina-2, Sorauli </p>
+          <p>Rupandehi,Nepal</p>
           <div className="mb-4">
             {/* Google Maps Embed API */}
             <iframe

@@ -22,26 +22,26 @@ const RoomBook = () => {
           </p>
           <p className="text-gray-700 mb-2">
             Email:{" "}
-            <a href="mailto:info@example.com" className="text-blue-500">
-              info@example.com
+            <a href="mailto:hotelbabari@gmail.com" className="text-blue-500">
+              hotelbabari@gmail.com
             </a>
           </p>
           <p className="text-gray-700 mb-2">
             Phone:{" "}
-            <a href="tel:+123-456-7890" className="text-blue-500">
-              +123-456-7890
+            <a href="tel:071422080" className="text-blue-500">
+              071422080 ,9857024734
             </a>
           </p>
         </div>
         <div className="mb-6">
           <a
-            href="mailto:info@example.com"
+            href="mailto:hotelbabari@gmail.com"
             className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded"
           >
             Mail Now
           </a>
           <a
-            href="tel:+123-456-7890"
+            href="tel:071422080"
             className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded ml-4"
           >
             Contact Us
@@ -49,9 +49,9 @@ const RoomBook = () => {
         </div>
         <div>
           <p className="text-lg text-gray-800 font-semibold mb-2">Address:</p>
-          <p className="text-gray-700 mb-2">123 Main Street</p>
-          <p className="text-gray-700 mb-2">Cityville, State, 12345</p>
-          <p className="text-gray-700">Country</p>
+          <p className="text-gray-700 mb-2">Sainamaina-02, sorauli</p>
+          <p className="text-gray-700 mb-2">Rupandehi, Lumbini Province</p>
+          <p className="text-gray-700">Nepal</p>
         </div>
       </div>
     </div>

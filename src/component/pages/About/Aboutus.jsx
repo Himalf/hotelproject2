@@ -27,15 +27,15 @@ const AboutUs = () => {
               </a>
             </li>
             <li>
-              <span className="font-semibold">Phone:</span> +977-98570224734,
-              +977-9857039576
+              <span className="font-semibold">Phone:</span> 071422080
+              ,9857024734
             </li>
             <li>
               <span className="font-semibold">VAT No.:</span> 606002343
             </li>
             <li>
-              <span className="font-semibold">Location:</span> Sinamaina-2,
-              Rupandehi, Nepal
+              <span className="font-semibold">Location:</span> Sainamaina-2,
+              Sorauli,Rupandehi, Nepal
             </li>
           </ul>
         </div>
